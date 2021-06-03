@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An acte for the abstinence from flesh.</title>
+            <title>Laws, etc.</title>
+            <author>England and Wales.</author>
+         </titleStmt>
+         <extent>Approx. 8KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B12629</idno><idno type="EEBO-CITATION">99892540</idno>
+  <idno type="VID">188867</idno>
+  <idno type="EEBO-PROQUEST">2248563955</idno>
+  
+            <idno type="STC">STC 7819.8</idno>
+            <idno type="STC">Interim Tract Supplement Guide Harl.7614[13]</idno>
+            <idno type="STC">ESTC S123624</idno>
+            <idno type="PROQUEST">ocm99892540</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99892540e"/>
+            <note>(EEBO-TCP ; phase 2, no. B12629)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 188867)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; C14:1[6])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An acte for the abstinence from flesh.</title>
+                  <title>Laws, etc.</title>
+                  <author>England and Wales.</author>
+                  <author>England and Wales. Sovereign (1547-1553 : Edward VI)</author>
+               </titleStmt>
+               <extent>2 sheets (versos blank).   </extent>
+               <publicationStmt>
+                  <publisher>in aedibus Richardi Graftoni Regii impressoris,</publisher>
+                  <pubPlace>Excusum Londini :</pubPlace>
+                  <date>[1549].</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>At end of text: Cum priuilegio ad imprimendum solum.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Fasting --  Law and legislation --  Early works to 1800.</term>
+               <term type="topical_term">Lent --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-01 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-03 </date>
+            <label>Kate Allen </label>Sampled and proofread </change>
+         <change>
+            <date>2014-03 </date>
+            <label>Kate Allen</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="act">
+            <pb facs="tcp:188867:1"/>
+            <head>¶ An acte for the abstinence from flesh.</head>
+            <p>
+               <seg rend="decorInit">A</seg>Lbeit the Kynges Subiectes nowe hauyng a more perfite and clere light of the Gospel and true word of God through the infinite clemen<g ref="char:EOLhyphen"/>cte and mercie of almyghtie God by the hādes of the Kynges maiestie and hys moste noble father of famous memorie promulgate, shewed, declared and opened, and therby perceyuing that one day or one kinde of meate of it selfe is not more holye, more pure or more cleane then an other, for that all daies and all meates be of theyr nature of one equall puritie, cleanes and holynes, and that all men shoulde by them lyue to the glorie of God, and at all tymes, and for all meetes geue thankes vnto him, of which meates none can defyle Christen menne or make them vncleane at any tyme, to whome all meates be lawfull and pure, so that they be not vsed in disobedience or vice: yet for asmuche as diuerse of the Kynges su<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>iectes turnyng theyr knowledge therin to satis<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ie theyr sensualitie, wher they should therby increase in vertue, haue of late tyme, more then in tymes paste, broken and contemned suche absti<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ence, whych hath ben v<g ref="char:EOLhyphen"/>sed in thys realme vpon the frydayes and saturdaies, the ymbring dayes and other dayes commōly cal<g ref="char:EOLhyphen"/>led vigilles, and in the tyme commonly called Lente and other accustumed tymes: The Kynges ma<g ref="char:EOLhyphen"/>iestie considering that due and godly abstinence is a meane to vertue and to subdue mennes bodyes to theyr soule and spirite, and considering also specially that Fishers, and men vsynge the trade of liuyng by fyshing in the Sea, maye therby the rather be sette on worke, and that by eatyng of fyshe, muche fleshe shall be saued and increased, and also for diuetse other considerations and commodities of thys Realme, doth ordeigne and enacte wyth thassent of the Lordes Spiritual and Temporall &amp; cōmons in this present parliament assembled, and by thaucthoritie of the same, that al maner of Statutes, Lawes, cōstitucions and vsages, concernyng any maner of fasting or abstinence from any kynd of meates here<g ref="char:EOLhyphen"/>tofore in this Realme made or vsed, shall frome the fyrst day of Maye nexte ensuing, lese theyr force and strength, &amp; be voyde &amp; of none effec<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>. And also y<seg rend="sup">t</seg> no persō or persons of what estate, degre or cōdicion he or she be, shall at any tyme after the sayde fyrste daye of May in the yere of our Lord God. <hi>M.D.xlix.</hi> wyl<g ref="char:EOLhyphen"/>linglie &amp; wyttingly eate any maner of fleshe, after what maner of kynd or sort it shal be ordred, dressed or vsed, vpō any Frydaye, or Saturdaye, or the ymbryng dayes or in any daye in the tyme cōmonly called Lent, nor at any suche other daie as is, or shal be at any tyme here after cōmonly accepted, &amp; reputed as a fyshe daie within this Realme of England, wherin it hath ben cōmonly vsed for to eate fyshe &amp; not fleshe, vpō payne that euery person eatyng any maner of fleshe vpō any of the sayd dates or times prohibited by this acte, to forsayte for the sawe fyrste offence ten shyllynges of lawful money of England, and also to suffre enprisonment by the space of ten dayes, and duryng the tyme of his or her sayde emprisonment, to abstayne frome eatyng of any maner of fleshe.</p>
+            <p>
+               <hi>AND</hi> if any person after he shall be lawfully conuict of any offence cōtrary to this acte, do efesones offende contrarye to this acte, and be therof lawfully conuict, that then euery person so offending the se<g ref="char:EOLhyphen"/>conde tyme, shall for hys seconde offence forfayte twenty shyllynges of lawfull money of Englande, and also suffer emprisonment by the space of twentie dayes, and duryng the tyme of hys or hir sayde emprisonment, to abstayne frome eatyng of any m<gap reason="illegible" resp="#murp" extent="2 letters">
+                  <desc>••</desc>
+               </gap>er of fleshe, and so lyke payne and emprisonment as often as he or she afterwarde shall offende.</p>
+            <p>
+               <hi>AND</hi> furthermore, it is ordeyned and enacted by thaucthoritie aforesayd, that Iustices of gaole de liuerie or Iustices of peace, in all and singuler Counties, Cyties, Townes corporate, and other places
+<pb facs="tcp:188867:2"/>within this Realme of England and other the Kinges dominions, shal haue ful power and aucthoritie to inquyre, heare, and determine, all and all maner offences that shalbe committed or done, contrarie to this acte, in lyke maner and fourme as they maye inquire, heare, &amp; determine any trespas or other offēce agaynst the Kynges peace committed or done within the limites or place where they then shalbe Iusti<g ref="char:EOLhyphen"/>ces of gaole deliuerie or Iustices of peace: And the moytie of euery suche forfeyture shalbe to our So<g ref="char:EOLhyphen"/>uereigne Lord the Kyng, his heyres and successoures, and shalbe extreated into the courte of the Exche<g ref="char:EOLhyphen"/>ker, in lyke maner and fourme as fynes for any trespas or other offence committed against the Kynges peace ought or should be extreated: And thother moytie of the sayde forfeyture, shalbe to hym that wyll sue for the same, by byll, playnte, informatiō or otherwyse in any of the Kynges courtes of Recorde, in whiche no essoyne, protection or wager of lawe shalbe allowed.</p>
+            <p>
+               <hi>PROVIDED</hi> alwayes, and be it ordeigned &amp; enacted by thaucthoritie aforesayde, that this acte or any thyng therin conteyned shall not in any wise extēd to any person or persons that heretofore hath or hereafter shall haue obteyned any licence of our souereygne Lord the Kyng, his heyres or successors, nor to any person being in greate age, &amp; in debilitie, and weakenes therby, nor to any person being sicke or notably hurte, wythout fraude or couine, duryng the tymne of his or her saide syckenes, nor to any wo<g ref="char:EOLhyphen"/>man being with chylde, or liynge in chyldebed for eatyng of suche one kynde of fleshe as she shall haue greate lust vnto, nor to any person beyng in pryson for any other offence then for any offence contrarie to this acte, neyther to any that is or hereafter shalbe the Kynges hyghnes Lieftenaunt, deputie or Ca<g ref="char:EOLhyphen"/>pitayne of any hys maiesties armie, holde, or fortresse, but the same them selues maye eate fleshe, and lycence and permit theyr Souldiers to do the same in tymes prohibited, vpon the wante and lacke of o<g ref="char:EOLhyphen"/>ther kynd of vitall, neyther shall extende to sainct Laurence euen, sainct Markes daye or any other day or euen being abrogat, neither to any suche as heretofore haue obteyned any lycence in due forme of the Archebyshop of Cantorburie.</p>
+            <p>
+               <hi>AND</hi> further be it enacted, by thaucthoritie aforesayd that all Archebyshops, Byshops, Archedea<g ref="char:EOLhyphen"/>cons and their officers, or thofficers of any of them, shall haue power to inquire of thoffenders in the premisses, and presente the same to suche from time to time, as by vertue of thys acte haue aucthoritie to heare and determine the same.</p>
+            <p>
+               <hi>PROVIDED</hi> alwayes and be it enacted, that no maner of person or persons be empeached, mole<g ref="char:EOLhyphen"/>sted or troubled, or shall incurre any peyne, penaltie or forfeyture for any offence contrarie to the acte be<g ref="char:EOLunhyphen"/>fore rehearsed, cōmitted or done, except he or they be accused, cōuented or indited of &amp; for the sayd offence according to the tenor of this Satute with in thre monethes next after the cōmitting of the sayd offence.</p>
+            <closer>God saue the Kyng.</closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>Excusum Londini, in aedibus Richardi Graftoni Regi<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Impressoris</hi>
+            </p>
+            <p>
+               <hi>Cum priuilegio ad imprimendum solum.</hi>
+            </p>
+            <pb facs="tcp:188867:3"/>
+         </div>
+      </back>
+   </text>
+</TEI>
